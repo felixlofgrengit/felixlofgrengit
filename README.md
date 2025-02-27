@@ -1,9 +1,4 @@
 - 👋 Hi, I’m @felixlofgrengit
-- 👀 I’m interested in forks
-- 🌱 I’m currently learning how to breath
-- 💞️ I’m looking to collaborate on making sins
-- 📫 How to reach me?
-- 😄 Pronouns: fork
 - ⚡ Fun fact: Live laugh love
 
 <!---
